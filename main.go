@@ -8,6 +8,5 @@ import (
 func main() {
 	n := 100
 	tkt.GenTicket(n)
-
-	fmt.Println("Thank you for your patronization")
+	fmt.Println("This is all you can do?")
 }
